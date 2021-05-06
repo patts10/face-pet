@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Face Pet App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+No me di abasto con el tiempo, y se me complicó con las APIs. 
+Es una app en la cual el usuario puede navegar a traves de posts realizados.
 
 ## Available Scripts
 
